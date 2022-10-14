@@ -775,7 +775,6 @@ Modified by Kris
 
 
 hola
-Created by Kris in feature/kris-images
 
 
 
